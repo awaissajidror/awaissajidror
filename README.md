@@ -12,13 +12,13 @@ Make that thing of yours even better. I can help either with the big picture or 
 ## 👯 Skills / Languages
 
 * `<%= 'Ruby on Rails' %>` great
-* >> puts 'Ruby' good
-* React.js getting better
-* JavaScript & $(jQuery) good
-* <HTML> + {CSS} + @Less + $Sass great
-* DATABASE & SQL very good
-* Git great
-* ^ RegExp $ not bad
+* `>> puts 'Ruby'` good
+* `React.js` getting better
+* `JavaScript` & `$(jQuery)` good
+* `<HTML>` + `{CSS}` + `@Less` + `$Sass` great
+* `DATABASE` & `SQL` very good
+* `Git` great
+* `^ RegExp $` not bad
   
 ## 🤔 ABOUT ME?
   
