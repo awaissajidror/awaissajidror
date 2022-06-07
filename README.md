@@ -11,7 +11,7 @@ Make that thing of yours even better. I can help either with the big picture or 
 
 ## 👯 Skills / Languages
 
-* <%= 'Ruby on Rails' %> great
+* `<%= 'Ruby on Rails' %>` great
 * >> puts 'Ruby' good
 * React.js getting better
 * JavaScript & $(jQuery) good
