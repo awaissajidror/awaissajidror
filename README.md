@@ -1,5 +1,22 @@
-# Hi there 👋
-# 🔭 What I do ?
+### Hi there 👋
+## 🔭 What I do ?
+Make that thing of yours even better. I can help either with the big picture or with specifics.
+## 🌱 The Full Shebang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **awaissajidror/awaissajidror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
