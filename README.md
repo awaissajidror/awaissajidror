@@ -32,9 +32,9 @@ And touch base ⚡ I like meeting new people.
 
 ## ⚡ Fun fact
 
-* ❤️ to make Vlogs
-* Love to explore nature
-* Love to read books
-* Love to travel
+ ❤️ to travel
+ ❤️ to read books
+ ❤️ to make Vlogs
+ ❤️ to explore nature
 
 Thank you for reading this. Putting time on something is always appreciatable. [is that even a word?]
