@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-telescope What I do ?
+## 🔭 What I do ?
 
 <!--
 **awaissajidror/awaissajidror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
