@@ -3,6 +3,12 @@
 Make that thing of yours even better. I can help either with the big picture or with specifics.
 ## 🌱 The Full Shebang
 
+* Build killer websites as a "full-stack" developer
+* Online instructor
+* Leader
+* Tech Builder
+* Not sure what you need? I can help with that too.
+
 
 
 
