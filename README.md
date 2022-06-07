@@ -28,7 +28,7 @@ Make that thing of yours even better. I can help either with the big picture or 
 
 ## 📫 Reach Out
 
-And touch base zap I like meeting new people.
+And touch base ⚡ I like meeting new people.
 
 ## ⚡ Fun fact
 
