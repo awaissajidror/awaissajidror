@@ -32,7 +32,7 @@ And touch base ⚡ I like meeting new people.
 
 ## ⚡ Fun fact
 
-* Love cameras and video edits
+* ❤️ to make Vlogs
 * Love to explore nature
 * Love to read books
 * Love to travel
